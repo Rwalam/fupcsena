@@ -3,7 +3,9 @@
 #include<stdbool.h>
 #include<string.h>
 #include<time.h>
-//Agencia Bancária POO
+// trabalho final de FUP, antes de conhecer POO
+
+//Agencia Bancária
 /* 
 -[1.0 P] Cadastrar um cliente com idCliente.
 idClientes devem ser únicos no sistema.
